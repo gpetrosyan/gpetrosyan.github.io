@@ -5,7 +5,7 @@
         {
             "appID": "8S2YNYCF9J.ru.profi",
             "paths": [
-            "*",
+            "/",
             ]
         }
         ]
