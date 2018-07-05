@@ -7,7 +7,7 @@
       {
         "appID": "909020101.ru.profi.backoffice",
         "paths": [
-          "b.profi.ru/*"
+          "*"
         ]
       }
     ]
