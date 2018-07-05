@@ -1,13 +1,15 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-        {
-            "appID": "8S2YNYCF9J.ru.profi",
-            "paths": [
-            "/",
-            ]
-        }
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": [
+      {
+        "appID": "909020101.ru.profi.backoffice",
+        "paths": [
+          "b.profi.ru/*"
         ]
-    }
+      }
+    ]
+  }
 }
